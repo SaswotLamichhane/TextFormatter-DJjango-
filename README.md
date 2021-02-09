@@ -1,6 +1,6 @@
 # TextFormatter-DJjango-
-It's a Django projct which could modify text, it is not set in production level so i havn't removed security key and DEBUG=True so you could run the server without modifying changes, ENJOY!!!
-# here's a quick views' code
+It's a Django projct which could modify text, it is not set in production level so I haven't removed security key and DEBUG=True so you could run the server without modifying changes.
+# 
 
 
 
